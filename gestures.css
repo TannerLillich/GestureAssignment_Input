@@ -1,0 +1,11 @@
+body {
+	font-family: helvetica, arial, sans-serif; margin: 16px;
+}
+
+#gestureArea {
+	width: 400px; height: 400px; background: silver; border: 1px solid black; margin-top: 30px;
+}
+
+#gestureResult {
+	margin-top: 15px; padding: 5px; width: 400px; text-align: center;
+}
